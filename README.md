@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LizEDA or Eli!
+- 👀 I’m interested in PCB design & electronics!
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on engineering projects!
+- 📫 Feel free to contact me at elirie94@gmail.com
